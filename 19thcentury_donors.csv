@@ -1,0 +1,65 @@
+Name_CV,Year Donated,Amount,Inflation Adjusted Amount,State,Gender,Occupation,Town,Overall Giving,Female Donors%,year_num
+barney_j,1854,5,164.64,Maine,M,Stone Cutter,Brooks,5301.69,8.33,1
+birchford_j,1854,10,329.37,Maine,M,farmer,East Dixmont,5301.69,8.33,1
+oliver_d,1854,50,1646.36,Maine,M,Carpenter,Bath,5301.69,8.33,1
+rich_a,1854,10,329.37,Maine,M,farmer,charleston,5301.69,8.33,1
+johnson_j ,1854,25,823.18,Maine,M,Fisherman,Harspwell,5301.69,8.33,1
+snow_m,1854,5,164.64,Maine,F,NA,Harspwell,5301.69,8.33,1
+royal_s,1854,1,32.93,Maine,M,Laborer,Topsham,5301.69,8.33,1
+week_l,1854,5,164.64,Maine,M,Farmer,Corinna,5301.69,8.33,1
+whitcomb_a,1854,25,823.18,Maine,M,Farmer,Oxford,5301.69,8.33,1
+marden_t,1854,10,329.37,Maine,M,Master joiner,Prospect,5301.69,8.33,1
+matthews_a,1854,5,164.64,Maine,M,Farmer ,Boothbay,5301.69,8.33,1
+greenleaf_a,1854,10,329.37,Maine,M,Unknown,Edgecomb,5301.69,8.33,1
+gott_m,1855,5,158.96,Maine,M,Farmer,Wayne,5245.68,28.57,2
+ford_r,1855,5,158.96,Maine,M,Farmer,Monroe,5245.68,28.57,2
+bigelow_a,1855,5,158.96,Maine,M,Farmer,Wayne,5245.68,28.57,2
+dow_n,1855,25,794.80,Maine,M,Manufacturer of Leather,Portland,5245.68,28.57,2
+fairbanks_j,1855,10,317.92,Maine,F,Unknown,Wayne,5245.68,28.57,2
+hutchinson_h,1855,25,794.80,Maine,F,Assistant Housekeeper,Weld,5245.68,28.57,2
+shapley_j,1855,10,317.92,Massachussetts,M,Child,Boston,5245.68,28.57,2
+hutchinson_a,1855,25,794.80,Maine,M,Farmer,Fayette,5245.68,28.57,2
+libby_g,1855,5,158.96,Maine,M,Farmer,Westbrook,5245.68,28.57,2
+parker_l,1855,10,317.92,Maine,F,Unknown,Waterville,5245.68,28.57,2
+seward_r,1855,5,158.96,Maine,M,Unknown,Garland,5245.68,28.57,2
+carlton_s,1855,5,158.96,Maine,M,Child,Farmington,5245.68,28.57,2
+dyer_j,1855,5,158.96,Maine,M,Farmer,New Sharon,5245.68,28.57,2
+knowlton_p,1855,25,794.80,Maine,F,NA,Montville,5245.68,28.57,2
+hathorn_s,1856,100,3253.99,Maine,M,Retired farmer,Lewiston,8199.32,8.33,3
+libby_w,1856,20,650.80,Maine,M,Ostler,Portland,8199.32,8.33,3
+stone_w,1856,5,162.70,Maine,M,Belt Maker,Biddeford,8199.32,8.33,3
+wyman_c,1856,1,31.79,Maine,M,Farmer ,Phippsburg,8199.32,8.33,3
+harding_e,1856,25,813.50,Maine,M,Farmer ,Buxton,8199.32,8.33,3
+chamberlain_e,1856,5,162.70,Maine,F,Matrice Abms House,Gardiner,8199.32,8.33,3
+nealey_g,1856,25,813.50,Maine,M,Laborer,Penobscot,8199.32,8.33,3
+sanford_p,1856,10,325.40,Maine,M,Farmer ,Waterville,8199.32,8.33,3
+merrill_s,1856,26,846.04,Maine,M,Farmer,Manchester,8199.32,8.33,3
+bragg_j,1856,5,162.70,Maine,M,Farmer,Sidney,8199.32,8.33,3
+white_j,1856,5,162.70,Maine,M,Farmer,Wiscasset,8199.32,8.33,3
+fogg_j,1856,25,813.50,Maine,M,Unknown,Montville ,8199.32,8.33,3
+hutchinson_a,1857,75,2384.39,Maine ,M,Farmer,Fayette,6040.46,46.15,4
+haynes_h,1857,1,31.79,Maine ,F,Keeping House,Madison ,6040.46,46.15,4
+wood_n,1857,1,31.79,Maine ,F,Child ,Lewiston,6040.46,46.15,4
+benson_s,1857,25,794.80,Maine ,M,Lawyer,Winthrop,6040.46,46.15,4
+moulton_m,1857,30,953.76,Maine ,F,Unknown,Hollis,6040.46,46.15,4
+leeman_h,1857,5,158.96,Maine ,M,Tanner,Gardiner,6040.46,46.15,4
+hamilton_w,1857,1,31.79,Maine ,M,Child ,Lewiston,6040.46,46.15,4
+townsend_s,1857,1,31.79,Maine ,M,Child ,Wilton,6040.46,46.15,4
+mcguire_m,1857,2,63.58,Maine ,F,Child ,Portland,6040.46,46.15,4
+hodge_w,1857,15,476.88,Maine ,M,Farmer,Edgecomb,6040.46,46.15,4
+peck_m,1857,1,31.79,Maine ,F,Unknown,Portland,6040.46,46.15,4
+toothaker_s,1857,30,953.76,Maine,F,Unknown,Minot,6040.46,46.15,4
+pierce_w,1857,3,95.38,Maine,M,Farmer,Lexington,6040.46,46.15,4
+litchfield_l,1858,100,3373.04,Maine,F,Stone Mason,Lewiston,27875.80,30.77,5
+butterfield_a,1858,25,843.26,Maine ,M,Farmer,Farmington,27875.80,30.77,5
+dixon_h,1858,15,505.96,Maine,M,Unknown,Lewiston,27875.80,30.77,5
+ware_l,1858,100,843.26,Maine ,M,Unknown,Lewiston,27875.80,30.77,5
+lowell_j,1858,50,1686.52,Maine ,M,Unknown,Lewiston,27875.80,30.77,5
+whiting_a,1858,25,843.26,Maine,M,Unknown,Carmel,27875.80,30.77,5
+wakefield_j,1858,50,1686.52,Maine,M,Farmer,Sanford,27875.80,30.77,5
+holland_a,1858,236.43,7974.87,Maine,M,Unknown,Danville,27875.80,30.77,5
+davis_j,1858,200,6746.07,Maine,M,Farmer,Vienna,27875.80,30.77,5
+dakin_f,1858,25,843.26,Maine,F,Mistress,Wilton,27875.80,30.77,5
+pettingill_a,1858,100,843.26,Maine,M,Blacksmith,Auburn,27875.80,30.77,5
+whitney_a,1858,25,843.26,Maine,F,Child,Lewiston,27875.80,30.77,5
+whiting_n,1858,25,843.26,Maine,F,Unknown,Newburgh,27875.80,30.77,5
